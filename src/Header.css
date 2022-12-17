@@ -1,0 +1,139 @@
+.Navbar{
+    width: 100vw;
+    height: 50px;
+    background-color: brown;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+li{
+    margin-top: 15px;
+    color: white;
+}
+
+.mdr{
+    
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* img{
+  
+    position: relative;
+    top: -85%;
+    left: 95%;
+    width: 24px;
+} */
+
+.box{
+    
+    border-radius: 10px;
+    background-color: #676868;
+    position: absolute;
+    height: 31px;
+    width: 31px;
+    left: 3%;
+    margin-top: 9px;
+}
+
+.input-group{
+    
+ width: 400px;
+ margin-top: 2%;
+ left: 1%;
+}
+
+
+.pd128{
+    margin-left:  1%;
+    margin-top: 15px;
+}
+
+.para{
+    display: flex;
+}
+
+.pa{
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.Acce{
+    width: 8%; 
+    height: 30px; 
+    background-color: rgb(0 166 156); 
+    margin-top: 1%;
+    margin-left: 1%;
+    border-radius: 7px;
+}
+
+.med_name{
+    padding-left: 10%;
+    font-size: 13px;
+    padding-top: 4px;
+    color: white;
+}
+
+
+.pow_box{
+    width: 6%; 
+    height: 30px; 
+    background-color: rgb(0 166 156); 
+    margin-top: 1%;
+    margin-left: 1%;
+    border-radius: 7px;
+}
+
+.pow{
+    padding-left: 10%;
+    font-size: 13px;
+    padding-top: 4px;
+    color: white;
+}
+
+.rm{
+    margin-top: 1.2%;
+    margin-left: 1%;
+    font-size: 14px;
+    color: brown;
+    font-weight: 500;
+}
+
+
+.sec_nav{
+    display: flex;
+    margin-bottom: -2%;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-size: 14px;
+}
+
+.arrow{
+    width: 12px;
+    height: 12px;
+    margin-top: 6px;
+}
+
+.cross{
+    width: 10px;
+    margin-top: -77px;
+    margin-left: 61px;
+}
+
+.cross2{
+    width: 10px;
+    margin-top: -77px;
+    margin-left: 93px;
+}
+
+.user{
+    width: 23px;
+    position: relative;
+    left: 95%;
+    margin-top: -6.5%;
+}

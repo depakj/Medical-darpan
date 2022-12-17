@@ -1,0 +1,98 @@
+.Abox{
+    margin-left: 18px;
+    margin-top: 2px;
+    width: 17vw;
+    height: 310px;
+    background-color: #ffff;
+
+}
+
+.RCBOX{
+    width: 17vw;
+    height: 40px;
+    background-color:rgb(228 228 228);
+}
+
+.Rc{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    font-size: 1;
+    font-weight: 600;
+}
+
+
+.Aside_ul{
+    display: block;
+    font-size: 16px;
+   
+}
+
+.Aside_ul>li{
+    color: black;
+}
+
+
+.select1{
+    width: 59%;
+    color: white;
+    background-color: rgb(0 166 156);
+    border-radius: 3px;
+}
+
+.select2{
+    width: 59%;
+    color: white;
+    background-color: rgb(0 166 156);
+    border-radius: 3px;
+}
+
+
+
+.Abox2{
+    margin-left: 18px;
+    margin-top: 1%;
+    width: 17vw;
+    height: 290px;
+    background-color: #ffff;
+
+}
+
+.Abox3{
+    margin-left: 18px;
+    margin-top: 1%;
+    width: 17vw;
+    height: 200px;
+    background-color: #ffff;
+
+}
+
+.Abox4{
+    margin-left: 18px;
+    margin-top: 1%;
+    width: 17vw;
+    height: 120px;
+    background-color: #ffff;
+
+}
+
+.Abox5{
+    margin-left: 18px;
+    margin-top: 1%;
+    width: 17vw;
+    height: 120px;
+    background-color: #ffff;
+
+}
+
+.cross3{
+    width: 10px;
+    margin-left: 15px;
+    margin-top: -3px;
+}
+
+.cross4{
+    width: 10px;
+    margin-left: 48px;
+    margin-top: -2px;
+}
